@@ -5,7 +5,7 @@
 
 <p align="center">
 
-- 👼 My name is DhaniGans
+- 👼 My name is Mian
 
 - 🔭 I am Not programmer
 </p>
@@ -66,14 +66,14 @@ pkg install ffmpeg
 pkg install libwebp 
 pkg install imagemagick
 pkg install bash
-git clone https://github.com/BOTZ-DHANI/V7.git
+git clone https://github.com/mianafzaal/V7.git
 cd V7
 npm install
 npm start
 ```
 ## For Windows
 ```bash
-git clone https://github.com/BOTZ-DHANI/V7.git
+git clone https://github.com/mianafzaal/V7.git
 cd V7
 npm install
 npm start
@@ -86,7 +86,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/BOTZ-DHANI/V7.git
+git clone https://github.com/mianafzaal/V7.git
 cd V7
 npm install
 npm start
