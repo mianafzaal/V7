@@ -1,7 +1,7 @@
 /*Bantu 500 Subscribe :)
 
 Sc Ori : ZeroYT7
-Credit : DhaniGans
+Credit :Mian
 
 
 Sc no enc beli lah bang
